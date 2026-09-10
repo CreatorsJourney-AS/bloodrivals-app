@@ -34,4 +34,4 @@ uninstall first.
 
 © CreatorsJourney AS · [bloodrivals.com](https://www.bloodrivals.com)
 
-_Latest build: **v1.2.0 (build 8495)** — published 2026-09-10._
+_Latest build: **v1.2.0 (build 8500)** — published 2026-09-10._
